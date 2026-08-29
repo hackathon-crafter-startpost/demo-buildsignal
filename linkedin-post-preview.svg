@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+  <rect width="1200" height="1500" fill="#f5f5f7"/>
+  <rect x="70" y="55" width="1060" height="1390" rx="18" fill="#fff" stroke="#e0e0e0"/>
+  <circle cx="140" cy="135" r="34" fill="#0066cc"/>
+  <text x="140" y="146" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#fff">M</text>
+  <text x="195" y="128" font-family="Arial" font-size="24" font-weight="700" fill="#1d1d1f">Desarrollador de OratorIA</text>
+  <text x="195" y="160" font-family="Arial" font-size="18" fill="#6e6e73">Construyendo con Web Audio · ahora</text>
+  <text x="115" y="245" font-family="Arial" font-size="27" fill="#1d1d1f">El detector de muletillas generaba falsos positivos.</text>
+  <text x="115" y="290" font-family="Arial" font-size="27" fill="#1d1d1f">Probé varios umbrales, pero el problema seguía.</text>
+  <text x="115" y="335" font-family="Arial" font-size="27" fill="#1d1d1f">La causa estaba antes del algoritmo:</text>
+  <rect x="115" y="360" width="570" height="45" rx="6" fill="#f5f5f7"/>
+  <text x="135" y="391" font-family="monospace" font-size="23" fill="#1d1d1f">smoothingTimeConstant = 0.8</text>
+  <text x="115" y="450" font-family="Arial" font-size="27" fill="#1d1d1f">estaba mezclando los espectros.</text>
+  <rect x="115" y="500" width="970" height="570" rx="12" fill="#1d1d1f"/>
+  <text x="155" y="600" font-family="Georgia" font-size="48" fill="#fff">EL BUG NO ESTABA</text>
+  <text x="155" y="655" font-family="Georgia" font-size="48" fill="#0066cc">EN EL ALGORITMO.</text>
+  <rect x="155" y="735" width="380" height="55" rx="6" fill="#333"/>
+  <text x="180" y="771" font-family="monospace" font-size="23" fill="#fff">smooth: 0.8</text>
+  <text x="575" y="772" font-family="Arial" font-size="34" fill="#0066cc">→</text>
+  <rect x="645" y="735" width="380" height="55" rx="6" fill="#2997ff"/>
+  <text x="670" y="771" font-family="monospace" font-size="23" fill="#fff">smooth: 0</text>
+  <text x="155" y="900" font-family="Georgia" font-size="31" fill="#fff">Revisa tus datos antes</text>
+  <text x="155" y="940" font-family="Georgia" font-size="31" fill="#fff">de cambiar tu lógica.</text>
+  <text x="155" y="1015" font-family="monospace" font-size="15" fill="#ccc">BUILDSIGNAL / ORATORIA</text>
+  <text x="115" y="1150" font-family="Arial" font-size="27" fill="#1d1d1f">Desactivé el suavizado y las pruebas pasaron.</text>
+  <text x="115" y="1215" font-family="Arial" font-size="27" font-weight="700" fill="#0066cc">El aprendizaje: revisa los datos de entrada antes</text>
+  <text x="115" y="1255" font-family="Arial" font-size="27" font-weight="700" fill="#0066cc">de ajustar la lógica.</text>
+  <text x="115" y="1365" font-family="Arial" font-size="20" fill="#6e6e73">#webaudio   #debugging   #javascript</text>
+</svg>
