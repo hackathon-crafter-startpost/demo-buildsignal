@@ -26,4 +26,12 @@
   <text x="115" y="1215" font-family="Arial" font-size="27" font-weight="700" fill="#0066cc">El aprendizaje: revisa los datos de entrada antes</text>
   <text x="115" y="1255" font-family="Arial" font-size="27" font-weight="700" fill="#0066cc">de ajustar la lógica.</text>
   <text x="115" y="1365" font-family="Arial" font-size="20" fill="#6e6e73">#webaudio   #debugging   #javascript</text>
+  <line x1="115" y1="1390" x2="1085" y2="1390" stroke="#e0e0e0" stroke-width="2"/>
+  <text x="115" y="1422" font-family="Arial" font-size="19" fill="#6e6e73">♡ 12 reacciones</text>
+  <text x="890" y="1422" font-family="Arial" font-size="19" fill="#6e6e73">3 comentarios</text>
+  <line x1="115" y1="1440" x2="1085" y2="1440" stroke="#e0e0e0" stroke-width="2"/>
+  <text x="145" y="1475" font-family="Arial" font-size="19" font-weight="700" fill="#1d1d1f">♡  Me gusta</text>
+  <text x="385" y="1475" font-family="Arial" font-size="19" font-weight="700" fill="#1d1d1f">▢  Comentar</text>
+  <text x="660" y="1475" font-family="Arial" font-size="19" font-weight="700" fill="#1d1d1f">↗  Compartir</text>
+  <text x="925" y="1475" font-family="Arial" font-size="19" font-weight="700" fill="#1d1d1f">➤  Enviar</text>
 </svg>
