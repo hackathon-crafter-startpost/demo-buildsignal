@@ -43,4 +43,19 @@ TypeScript, Node.js, Next.js, React, Convex, Clerk, Tailwind CSS, Shiki y html-t
 - Imagen: 1080 × 1350 px y menos de 2 MB.
 - Secretos filtrados: 0.
 
+## Business metrics
+
+- **Proyectos activados:** cantidad de proyectos que empiezan a registrar sesiones.
+- **Momentos detectados:** cantidad de aprendizajes encontrados.
+- **Tasa de aceptación:** sugerencias aceptadas / momentos detectados.
+- **Tasa de publicación:** publicaciones realizadas / sugerencias aceptadas.
+- **Publicaciones por usuario:** frecuencia con que el contenido sale del proyecto.
+- **Retención:** usuarios que vuelven a usar BuildSignal después de 7 y 30 días.
+- **Conversión a pago:** cuentas de pago / cuentas activas.
+- **Ingresos mensuales:** suscripciones + planes para equipos.
+
+## Cómo beneficia al negocio
+
+BuildSignal puede generar ingresos con un plan gratuito limitado, un plan Pro para publicaciones y proyectos adicionales, y un plan para equipos con métricas compartidas y controles de privacidad. El valor comercial se mide por la cantidad de proyectos activados, sugerencias aceptadas, publicaciones realizadas y usuarios que permanecen activos.
+
 Abre `index.html` directamente en el navegador. No requiere dependencias.
